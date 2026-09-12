@@ -79,4 +79,6 @@ Thumbnails and detail images use `expo-image` instead of the built-in `Image`, f
 
 ## AI usage
 
-I used Claude (Anthropic's AI coding assistant, via Claude Code) heavily on this assignment, and want to be upfront that it went beyond "guidance/research only" — given I had zero React Native background going in, I used it as a hands-on pairing partner rather than just a search engine: it helped me pick the stack, scaffold the Expo project, and write the data/hooks/screens layers described above, explaining each piece (the fetch wrapper and error handling, the pagination/search state machine, the navigation setup, expo-image's placeholder support) as we went. I reviewed the resulting code, understand the reasoning behind each architectural decision above, and can walk through it in the recorded video.
+I used Claude as an AI coding assistant during this assignment.
+
+I used it for technical guidance, implementation assistance, debugging, and reviewing alternative approaches while building the application. I iteratively reviewed and tested the generated code and made the final decisions around the application structure, state management, API integration, and UI behaviour.
