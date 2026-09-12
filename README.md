@@ -79,6 +79,4 @@ Thumbnails and detail images use `expo-image` instead of the built-in `Image`, f
 
 ## AI usage
 
-I used Claude as an AI coding assistant during this assignment.
-
-I used it for technical guidance, implementation assistance, debugging, and reviewing alternative approaches while building the application. I iteratively reviewed and tested the generated code and made the final decisions around the application structure, state management, API integration, and UI behaviour.
+I used Claude for technical guidance, implementation assistance, debugging, and reviewing alternative approaches while building the application. I iteratively reviewed and tested the generated code and made the final decisions around the application structure, state management, API integration, and UI behaviour.
