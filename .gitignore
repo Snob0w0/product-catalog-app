@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+# local tooling config (dev-server launch config for this machine)
+.claude/
+
 # Expo
 .expo/
 dist/
